@@ -25,7 +25,7 @@ Have fun, stay childish, Yours Webdoktor
 
 **UPDATE:** let's say you have an existing text on your pc and want to convert it in a way, that LEDIP can process it. The syntax in linux or cygwin is as follows:
 
-nl -nrz -w4 -s  text_in.txt > text_out.txt
+    nl -nrz -w4 -s  text_in.txt > text_out.txt
 
 (important are the 2 spaces after -s)
 
