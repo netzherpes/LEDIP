@@ -29,6 +29,6 @@ Have fun, stay childish, Yours Webdoktor
 
 (important are the 2 spaces after -s)
 
-Pro Tipp: Good textfiles can be found here
+Pro Tipp: Good textfiles can be found [here](http://textfiles.com/sex/EROTICA/)
 
 :P
