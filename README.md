@@ -21,6 +21,7 @@ The folowing commands are accepted:
     *EXIT* ... guess.
     *CLEAR* delete everything
 
+Warmstart is $203C ! - Important if you load some files uo again
 
 Thanks to: Kiumi Akingbehin, HJM and Hans Otten for their help,
 
